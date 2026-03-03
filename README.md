@@ -31,15 +31,14 @@
 
 ### 📊 My Stats (Red & Black Theme)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=d3xllive&show_icons=true&theme=radical&font_color=ff0000&icon_color=ff0000&title_color=ff0000" Alt="d3xl Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=d3xllive&show_icons=true&theme=dark&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000" Alt="d3xl Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3xllive&layout=compact&theme=radical&font_color=ff0000&title_color=ff0000" Alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3xllive&layout=compact&theme=dark&title_color=ff0000&text_color=ffffff&bg_color=000000" Alt="Top Langs" />
 </p>
-
 ---
 
 ### 📱 Connect with Me
 <p align="left">
-  <a href="https://youtube.com/@KanalAdin"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://kick.com/KanalAdin"><img src="https://img.shields.io/badge/Kick-05FF12?style=for-the-badge&logo=kick&logoColor=black" /></a>
+  <a href="https://youtube.com/@Serdar.Soysal"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://kick.com/d3xlz"><img src="https://img.shields.io/badge/Kick-05FF12?style=for-the-badge&logo=kick&logoColor=black" /></a>
 </p>
