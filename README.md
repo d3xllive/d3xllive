@@ -12,7 +12,6 @@
 - 🛠️ **Working on:** Advanced FiveM scripts (QBCore & Ox-based).
 - 📺 **Streaming:** Catch me live on **YouTube** and **Kick**!
 - 🕹️ **Gaming:** CS:GO (Target: Faceit 10) and RDR2.
-- 🏍️ **Passion:** Motorcycles & the "G-famly" community.
 
 ---
 
