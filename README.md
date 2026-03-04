@@ -61,8 +61,8 @@
 
 ### 📱 Connect with Me
 <p align="left">
-  <a href="https://youtube.com/@d3xl"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://kick.com/d3xl"><img src="https://img.shields.io/badge/Kick-05FF12?style=for-the-badge&logo=kick&logoColor=black" /></a>
+  <a href="https://youtube.com/@serdar.soysal"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://kick.com/d3xlz"><img src="https://img.shields.io/badge/Kick-05FF12?style=for-the-badge&logo=kick&logoColor=black" /></a>
 </p>
 
 <br />
