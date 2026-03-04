@@ -9,7 +9,7 @@
 
 - 🛠️ **Uzmanlık:** FiveM Scripting (QBCore, ox_inventory, ox_lib, ox_target).
 - 💻 **Hedef:** Full-Stack Development & Game Development.
-- 🎮 **Gaming:** CS:GO (Faceit 10 Seviye Hedefi) ve Red Dead Redemption 2.
+- 🎮 **Gaming:** Red Dead Redemption 2.
 - 🏍️ **Hobi:** Motosiklet tutkunu ve **G-famly** kurucusu.
 
 ---
